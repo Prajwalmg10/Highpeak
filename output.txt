@@ -1,0 +1,3 @@
+The number of tasks and earnings available for others
+Task :1
+Earning :100
